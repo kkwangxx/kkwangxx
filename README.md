@@ -3,7 +3,7 @@
 
 <div>
   <!-- 自我介绍打招呼 -->
-  <span>Hi there! I'm xcy960815 ~ </span>
+  <span>Hi there! I'm kkwang.xx ~ </span>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="打招呼">
 </div>
 
