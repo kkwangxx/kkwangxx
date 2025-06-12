@@ -11,7 +11,7 @@
 * This guy is lazy and leaves nothing behind
 <!-- <ul>
   <li>
-  <b>Name:</b> WLWYJH
+  <b>Name:</b> kkwangxx
   </li>
   <li>
   <b>Gender:</b> Male
@@ -35,7 +35,7 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;"> 
   <!-- 代码提交数量 -->
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=WLWYJH&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=kkwangxx&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
   <!-- 代码语言 -->
    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xcy960815&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> 
 </div>
@@ -94,7 +94,7 @@
 
  <!-- 近30天被访问的次数 -->
 ### 👁 Visit traffic in the past 30 days
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WLWYJH&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kkwangxx&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!-- GitHub streak（GitHub 连续打卡） -->
@@ -104,8 +104,8 @@
 <details>
 <summary>😎 View my contributions in 3D</summary>
 
-![](https://raw.githubusercontent.com/WLWYJH/WLWYJH/profile-3d-contrib/profile-green.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/WLWYJH/WLWYJH/profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/kkwangxx/kkwangxx/profile-3d-contrib/profile-green.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/kkwangxx/kkwangxx/profile-3d-contrib/profile-night-green.svg#gh-dark-mode-only)
 
 </details>
 
