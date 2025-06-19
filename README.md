@@ -1,5 +1,9 @@
 <!-- 一直敬仰左上方45度的松鼠 -->
-<!-- ![](https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png) -->
+![](https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png)
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" alt="MasterHead" />
+</div>
 
 <div>
   <!-- 自我介绍打招呼 -->
