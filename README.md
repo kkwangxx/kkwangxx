@@ -90,6 +90,10 @@
   <!-- scss -->
   <code><img height="40" src="https://api.iconify.design/logos:node-sass.svg" alt="sass"></code>
   &nbsp;
+  <code><img height="40" src="https://api.iconify.design/logos:deno.svg" alt="sass"></code>
+  &nbsp;
+  <code><img height="40" src="https://api.iconify.design/logos:datadog.svg" alt="sass"></code>
+  &nbsp;
  </div>
 
 
