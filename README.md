@@ -96,7 +96,7 @@
   &nbsp;
   <code><img height="40" src="https://api.iconify.design/logos:glitch.svg" alt="sass"></code>
   &nbsp;
-  <code><img height="40" src="https://api.iconify.design/logos:livewire.svg" alt="sass"></code>
+  <code><img height="40" src="https://api.iconify.design/logos:sentry.svg" alt="sass"></code>
   &nbsp;
  </div>
 
