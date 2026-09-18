@@ -90,9 +90,6 @@
   <code><img height="40" src="https://api.iconify.design/logos:sentry.svg" alt="sass"></code>
   &nbsp;
  </div>
- 
-<!-- GitHub streak（GitHub 连续打卡） -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kkwangxx)](https://git.io/streak-stats)
 
 ( ๑ˊ•̥▵•)੭₎₎ Welcome to follow me and give me a star :)
 
